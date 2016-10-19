@@ -1,6 +1,6 @@
 ---
 title: Web Scraping pt. 2
-duration: "1:25"
+duration: "3:00"
 creator:
     name: Brad Zimmerman
     city: SEA
